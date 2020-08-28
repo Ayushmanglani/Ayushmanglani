@@ -1,17 +1,29 @@
-### Hi Geeks! 👋
+## Hi Geeks! 👋
 
-## A Professional 
-<!--
-**Ayushmanglani/Ayushmanglani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I'm a Professional Software Developer
 
-Here are some ideas to get you started:
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ayushi-rawat-53496218b/)](https://www.linkedin.com/in/ayush-manglani-58a1a6162/) 
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ayush.manglani@gmail.com)](https://mail.google.com) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ - 🔭 Python is my goto Tool 
+ - ✨ I have built multiple Projects using, HTML | CSS | JavaScript | JQuery | PHP
+ - ⚡ I have hands-on Experience on MySQL, Oracle Databases, DynamoDB
+ - 😄 I am Learning and passionate about AWS Cloud
+ 
+ ### My Favorites 💯
+ - 👨‍💻 Build and Explore New Things
+ 
+ - 🍕 Competitive Coding
+ 
+ - 📰 writing TECH BLOGS
+
+### Check my blogs & posts 😎 
+- [Small-Steps](http://small-steps.herokuapp.com/)
+
+- [EC2 and Types of EC2 Instances](https://medium.com/@ayush.manglani/amazon-ec2-type-of-ec2-instances-802d9e9c4fc7)
+
+- [Amazon DynamoDB](https://medium.com/@ayush.manglani/amazon-dynamodb-e5fc12193933)
+
+- [Python Bot](https://www.linkedin.com/posts/ayush-manglani-58a1a6162_python-selenium-pythonprogramming-activity-6661942482412150784-6Hv1)
+ 
+ ### Thank you 🙏
