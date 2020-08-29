@@ -1,6 +1,6 @@
 ## Hi Geeks! 👋
 
-### I'm a Professional Software Developer
+### I'm a Software Developer
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ayushi-rawat-53496218b/)](https://www.linkedin.com/in/ayush-manglani-58a1a6162/) 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ayush.manglani@gmail.com)](https://mail.google.com) 
