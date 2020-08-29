@@ -6,7 +6,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ayush.manglani@gmail.com)](https://mail.google.com) 
 
  - 🔭 Python is my goto Tool 
- - ✨ I have built multiple Projects using, HTML | CSS | JavaScript | JQuery | PHP
+ - ✨ I have built multiple Projects using: HTML | CSS | JavaScript | JQuery | PHP
  - ⚡ I have hands-on Experience on MySQL, Oracle Databases, DynamoDB
  - 😄 I am Learning and passionate about AWS Cloud
  
