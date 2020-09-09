@@ -9,6 +9,7 @@
  - ✨ I have built multiple Projects using: HTML | CSS | JavaScript | JQuery | PHP
  - ⚡ I have hands-on Experience on MySQL, Oracle Databases, DynamoDB
  - 😄 I am Learning and passionate about AWS Cloud
+ - 😎 Competitive Programmer, Debugger and Tester
  
  ### My Favorites 💯
  - 👨‍💻 Build and Explore New Things
