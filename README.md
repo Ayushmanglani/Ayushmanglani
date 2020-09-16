@@ -7,9 +7,10 @@
 
  - 🔭 Python is my goto Tool 
  - ✨ I have built multiple Projects using: HTML | CSS | JavaScript | JQuery | PHP
- - ⚡ I have hands-on Experience on MySQL, Oracle Databases, DynamoDB
- - 😄 I am Learning and passionate about AWS Cloud
+ - ⚡ I have hands-on Experience on: MySQL, Oracle Databases, DynamoDB
+ - 😄 I am Learning and passionate about: AWS Cloud | Docker
  - 😎 Competitive Programmer, Debugger and Tester
+ - 💻 Build UI with Figma 
  
  ### My Favorites 💯
  - 👨‍💻 Build and Explore New Things
