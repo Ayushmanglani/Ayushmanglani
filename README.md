@@ -28,6 +28,10 @@
 
 - [Python Bot](https://www.linkedin.com/posts/ayush-manglani-58a1a6162_python-selenium-pythonprogramming-activity-6661942482412150784-6Hv1)
  
+### 📊 Github Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=ayushmanglani&show_icons=true&theme=gotham" alt="Ayush Manglani | Stats" />
+ 
  ### Thank you 🙏
 
 ![Visitor Count](https://profile-counter.glitch.me/{Ayushmanglani}/count.svg)
