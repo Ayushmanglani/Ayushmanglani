@@ -17,7 +17,7 @@
  
  - 🍕 Competitive Coding
  
- - 📰 writing TECH BLOGS
+ - 📰 writing Tech Blogs
 
 ### Check my blogs & posts 😎 
 - [Small-Steps](http://small-steps.herokuapp.com/)
