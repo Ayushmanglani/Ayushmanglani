@@ -33,11 +33,8 @@
 
 ### Check my blogs & posts 😎 
 - [Small-Steps](http://small-steps.herokuapp.com/)
-
 - [EC2 and Types of EC2 Instances](https://medium.com/@ayush.manglani/amazon-ec2-type-of-ec2-instances-802d9e9c4fc7)
-
 - [Amazon DynamoDB](https://medium.com/@ayush.manglani/amazon-dynamodb-e5fc12193933)
-
 - [Python Bot](https://www.linkedin.com/posts/ayush-manglani-58a1a6162_python-selenium-pythonprogramming-activity-6661942482412150784-6Hv1)
  
 ### 📊 Github Stats
