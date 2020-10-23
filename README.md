@@ -5,7 +5,6 @@
 ### Tech I'm good at ⚡
 <p align="left">
 <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
- 
 <img src="https://devicons.github.io/devicon/devicon.git/icons/django/django-original.svg" alt="django" width="40" height="40"/> 
 <img src="https://cdn.icon-icons.com/icons2/2407/PNG/512/aws_icon_146074.png" alt="AWS" width="40" height="40"/>
 <img src="https://cdn.iconscout.com/icon/free/png-256/figma-1693589-1442630.png" alt="Figma" width="40" height="40"/>
@@ -23,6 +22,12 @@
 <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/97_Docker-512.png" alt="Docker" width="40" height="40"/>
 </p>
 
+### Highlights 🏆
+ - [AWS Community Builder](https://aws.amazon.com/developer/community/community-builders/)
+ - [5 ⭐ at CodeChef](https://www.codechef.com/users/ayush_005)
+ - [4x Gold Bagde on HackerRank](https://www.hackerrank.com/ayush_manglani)
+ - Global Rank 37, CodeChef July Long Challenge
+ 
  ### My Favorites 💯
  - 👨‍💻 Build and Explore New Things
  - 🍕 Competitive Coding
