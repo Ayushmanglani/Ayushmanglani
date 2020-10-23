@@ -2,9 +2,6 @@
 
 ### I'm a Software Developer
 
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ayush.manglani@gmail.com)](https://mail.google.com) 
-
-
 ### Tech I'm good at ⚡
 <p align="left">
 <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
@@ -48,4 +45,5 @@
 <p align="center">
 <a href="https://linkedin.com/in/ayush-manglani-58a1a6162" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Ayushmanglani" height="30" width="30" /></a>
 <a href="https://instagram.com/ayush_manglani" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="ayush_manglani" height="30" width="30" /></a>
-</p>
+<a href="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ayush.manglani@gmail.com" target="blank"><img align="center" src="https://freepngimg.com/thumb/gmail/62637-computer-icon-icons-scalable-vector-graphics-size.png" alt="ayush_manglani" height="30" width="30" /></a>
+ 
