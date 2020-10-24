@@ -28,22 +28,22 @@
  - [4x Gold Bagde on HackerRank](https://www.hackerrank.com/ayush_manglani)
  - Global Rank 37, CodeChef July Long Challenge
  
- ### My Favorites 💯
+ ### Interests 💯
  - 👨‍💻 Build and Explore New Things
  - 🍕 Competitive Coding
  - 📰 writing Tech Blogs
 
-### Check my blogs & posts 😎 
+### Blogs & posts 😎 
 - [Small-Steps](http://small-steps.herokuapp.com/)
 - [EC2 and Types of EC2 Instances](https://medium.com/@ayush.manglani/amazon-ec2-type-of-ec2-instances-802d9e9c4fc7)
 - [Amazon DynamoDB](https://medium.com/@ayush.manglani/amazon-dynamodb-e5fc12193933)
 - [Python Bot](https://www.linkedin.com/posts/ayush-manglani-58a1a6162_python-selenium-pythonprogramming-activity-6661942482412150784-6Hv1)
  
-### 📊 Github Stats
+### 📊 Stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=ayushmanglani&show_icons=true&theme=gotham" alt="Ayush Manglani | Stats" />
  
- ### Thank you 🙏
+ ### Thank you 😊
 
 ![Visitor Count](https://profile-counter.glitch.me/{Ayushmanglani}/count.svg)
 
