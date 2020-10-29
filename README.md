@@ -31,7 +31,7 @@
  ### Interests 💯
  - 👨‍💻 Build and Explore New Things
  - 🍕 Competitive Coding
- - 📰 writing Tech Blogs
+ - 📰 Writing Tech Blogs
 
 ### Blogs & posts 😎 
 - [Small-Steps](http://small-steps.herokuapp.com/)
