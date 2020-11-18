@@ -43,7 +43,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=ayushmanglani&show_icons=true&theme=gotham" alt="Ayush Manglani | Stats" />
  
- ### Thank you 😊
+ ### Thankyou 😊
 
 ![Visitor Count](https://profile-counter.glitch.me/{Ayushmanglani}/count.svg)
 
