@@ -26,7 +26,7 @@
  - [AWS Community Builder](https://www.linkedin.com/posts/ayush-manglani-58a1a6162_awscommunity-aws-cloudcomputing-activity-6724672695683817473-zQF9)
  - [5 ⭐ at CodeChef](https://www.codechef.com/users/ayush_005)
  - [4x Gold Bagde on HackerRank](https://www.hackerrank.com/ayush_manglani)
- - Global Rank 37, CodeChef July Long Challenge
+ - [Global Rank 37, CodeChef July Long Challenge](https://www.codechef.com/users/ayush_005)
  
  ### Interests 💯
  - 👨‍💻 Build and Explore New Things
