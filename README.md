@@ -1,6 +1,7 @@
 ## Hi Geeks! 👋
 
 ### I'm a Software Developer
+[Full Stack Developer @ GigIndia, Ex - TCS]
 
 ### Tech I'm good at ⚡
 <p align="left">
