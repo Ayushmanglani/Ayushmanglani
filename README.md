@@ -34,7 +34,7 @@
  - 🍕 Competitive Coding
  - 📰 Writing Tech Blogs
 
-### Blogs & posts 😎 
+### My Work 😎 
 - [Small-Steps (Boycott Chinese Products)](http://small-steps.herokuapp.com/)
 - [EC2 and Types of EC2 Instances](https://medium.com/@ayush.manglani/amazon-ec2-type-of-ec2-instances-802d9e9c4fc7)
 - [Amazon DynamoDB](https://medium.com/@ayush.manglani/amazon-dynamodb-e5fc12193933)
