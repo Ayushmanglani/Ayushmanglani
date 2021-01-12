@@ -11,9 +11,9 @@ Full Stack Developer @ GigIndia, Ex - TCS
 <img src="https://miro.medium.com/max/300/1*gMneUO--nrNnbU4nuyk63g.png" alt="Figma" width="40" height="40"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png" alt="html5" height="40"/> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" alt="css3" height="40"/> 
-<img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-<img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
-<img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
+<img src="https://cdn.uconnectlabs.com/wp-content/uploads/sites/25/2020/04/J.png" alt="javascript" width="40" height="40"/> 
+<img src="https://www.pinclipart.com/picdir/middle/396-3965857_c-c-programming-language-logo-clipart.png" alt="C" width="40" height="40"/> 
+<img src="https://i.pinimg.com/originals/99/f8/87/99f887833c475448723d3c9ac16c179b.png" alt="C++" width="40" height="40"/> 
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
 <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/> 
 <img src="https://cdn.iconscout.com/icon/free/png-512/jquery-10-1175155.png" alt="jquery" width="40" height="40"/>
