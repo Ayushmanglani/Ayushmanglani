@@ -8,7 +8,7 @@ Full Stack Developer @ GigIndia, Ex - TCS
 <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" alt="python" width="40" height="40"/> 
 <img src="https://miro.medium.com/max/1200/0*5Cke19b5MtU2WL5i.png" alt="django" height="40"/> 
 <img src="https://cdn.icon-icons.com/icons2/2407/PNG/512/aws_icon_146074.png" alt="AWS" width="40" height="40"/>
-<img src="https://mpng.subpng.com/20180506/ile/kisspng-python-programming-language-computer-programming-5aefaba25ef4a4.302516281525656482389.jpgfree/png-256/figma-1693589-1442630.png" alt="Figma" width="40" height="40"/>
+<img src="https://miro.medium.com/max/300/1*gMneUO--nrNnbU4nuyk63g.png" alt="Figma" width="40" height="40"/>
 <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
 <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
 <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
