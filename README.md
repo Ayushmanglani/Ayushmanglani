@@ -30,7 +30,7 @@ Full Stack Developer @ GigIndia, Ex - TCS
  ### Interests 💯
  - 👨‍💻 Build and Explore New Things
  - 🍕 Competitive Coding
- - 📰 Writing Tech Blogs
+ - 📰 Writing Technical Blogs
 
 ### My Work 😎 
 - [Small-Steps (Boycott Chinese Products)](http://small-steps.herokuapp.com/)
