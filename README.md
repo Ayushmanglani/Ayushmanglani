@@ -2,7 +2,6 @@
 
 ### I'm a Software Developer
 Full Stack Developer @ GigIndia, Ex - TCS
-
 ### Tech I'm good at ⚡
 <p align="left">
 <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" alt="python" width="40" height="40"/> 
