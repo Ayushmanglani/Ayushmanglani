@@ -20,6 +20,7 @@ Full Stack Developer @ GigIndia, Ex - TCS
 <img src="https://i.pinimg.com/originals/50/f1/58/50f1582a95bdac10f1c3fa295c8b947b.png" alt="mysql" width="40" height="40"/>
 <img src="https://mpng.subpng.com/20190301/hhs/kisspng-amazon-dynamodb-amazon-web-services-database-data-aws-dynamodb-logo-svg-vector-amp-png-transparent-5c792300a53151.4650116715514426886766.jpg" alt="Dynamo DB" width="40" height="40"/>
 <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/97_Docker-512.png" alt="Docker" width="40" height="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="PostGreSQL" width="40" height="40"/>
 </p>
 
 ### Highlights 🏆
