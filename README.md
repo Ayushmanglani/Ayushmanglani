@@ -1,7 +1,8 @@
 ## Hi Geeks! 👋
 
-### I'm a Software Developer
-Developer @ PhonePe, Ex - GigIndia, TCS
+### Currently Role
+Engineering @ PhonePe | Ex - GigIndia, TCS
+ <!--
 ### Tech I'm good at ⚡
 
 
@@ -40,13 +41,14 @@ Developer @ PhonePe, Ex - GigIndia, TCS
 - [EC2 and Types of EC2 Instances](https://medium.com/@ayush.manglani/amazon-ec2-type-of-ec2-instances-802d9e9c4fc7)
 - [Amazon DynamoDB](https://medium.com/@ayush.manglani/amazon-dynamodb-e5fc12193933)
 - [Python Bot](https://www.linkedin.com/posts/ayush-manglani-58a1a6162_python-selenium-pythonprogramming-activity-6661942482412150784-6Hv1)
- 
+
+
 ### 📊 Stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=ayushmanglani&show_icons=true&theme=gotham" alt="Ayush Manglani | Stats" />
  
  ### Thankyou 😊
-
+-->
 <!-- ![Visitor Count](https://profile-counter.glitch.me/{Ayushmanglani}/count.svg) -->
 
 <p align="center">
