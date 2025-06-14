@@ -1,6 +1,6 @@
 ## Hi Geeks! 👋
 
-### Currently Role
+### Current Role
 Engineering @ PhonePe | Ex - GigIndia, TCS
  <!--
 ### Tech I'm good at ⚡
