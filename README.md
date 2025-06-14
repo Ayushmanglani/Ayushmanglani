@@ -1,7 +1,7 @@
 ## Hi Geeks! 👋
 
 ### I'm a Software Developer
-Full Stack Developer @ GigIndia, Ex - TCS
+Developer @ PhonePe, Ex - GigIndia, TCS
 ### Tech I'm good at ⚡
 
 
